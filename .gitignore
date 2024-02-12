@@ -1,0 +1,4 @@
+
+dist/*
+build/*
+demopackagepy.egg-info/*
